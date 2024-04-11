@@ -15,13 +15,10 @@
   </h3>
   <div align="center"></div>
 
-<!-- <p align="center">
-  <a href="">
-    <img src="./assets/gaussian_slam.gif" alt="teaser" width="100%">
-  </a>
-</p> -->
 <div align=center>
+
 ![github (1)](https://github.com/Lab-of-AI-and-Robotics/GS_ICP_SLAM/assets/34827206/5722e8f4-165d-4093-8064-a7ed5d9ea008)
+
 </div>
 
 <br>

@@ -1,0 +1,7 @@
+SIBR_viewers/build
+SIBR_viewers/extlibs
+SIBR_viewers/install
+
+experiments
+
+**/__pycache__

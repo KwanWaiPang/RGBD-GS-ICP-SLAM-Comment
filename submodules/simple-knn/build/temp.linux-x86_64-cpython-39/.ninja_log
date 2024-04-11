@@ -1,0 +1,4 @@
+# ninja log v5
+1	14180	1712816215082298389	/home/gwp/GS_ICP_SLAM/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/simple_knn.o	66e45e5fe6d4a374
+1	21832	1712816222737856230	/home/gwp/GS_ICP_SLAM/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/ext.o	de4ae6c43b5ee38b
+1	67995	1712816268903315272	/home/gwp/GS_ICP_SLAM/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/spatial.o	8228e4214b8942dc

@@ -1,0 +1,6 @@
+opencv-contrib-python
+open3d
+scipy
+tqdm
+torchmetrics
+plyfile
